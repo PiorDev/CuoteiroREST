@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0",  // Siempre pasa
+    "test": "echo \"No tests specified\" && exit 0",
     "build": "echo \"No build script specified\""
   },
   "keywords": [],
